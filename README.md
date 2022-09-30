@@ -2,6 +2,10 @@ Agustín Muñoz @agustinMP01
 
 Estudiante de Ingeneria Civil en Computacion 
 
+## Lenguajes utilizados
 Python
+Java
+C++
+C
 
-Contacto: agustin.imp01@gmail.com
+Contacto: agustin.munoz@ug.uchile.cl
