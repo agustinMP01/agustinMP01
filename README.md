@@ -4,6 +4,8 @@ Estudiante de Ingeneria Civil en Computacion
 
 ## Lenguajes utilizados
 - Python
+- JavaScript
+- PHP
 - Java
 - C++
 - C
